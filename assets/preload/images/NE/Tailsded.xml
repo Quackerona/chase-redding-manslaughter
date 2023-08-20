@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tailsded.png">
+<SubTexture name="Tailsded loop0000" x="250" y="0" width="126" height="195" frameX="-135" frameY="-94" frameWidth="400" frameHeight="400" />
+<SubTexture name="Tailsded loop0001" x="0" y="0" width="126" height="196" frameX="-135" frameY="-93" frameWidth="400" frameHeight="400" />
+<SubTexture name="Tailsded loop0002" x="376" y="0" width="122" height="195" frameX="-135" frameY="-94" frameWidth="400" frameHeight="400" />
+<SubTexture name="Tailsded loop0003" x="126" y="0" width="124" height="196" frameX="-135" frameY="-93" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

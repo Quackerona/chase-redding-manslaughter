@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NEbg2.png">
+<SubTexture name="NEbg2 NEbg20000" x="0" y="0" width="1592" height="1020" frameX="0" frameY="-88" frameWidth="1592" frameHeight="1108" />
+<SubTexture name="NEbg2 NEbg20001" x="1592" y="0" width="1592" height="1020" frameX="0" frameY="-88" frameWidth="1592" frameHeight="1108" />
+<SubTexture name="NEbg2 NEbg20002" x="0" y="1020" width="1592" height="1020" frameX="0" frameY="-88" frameWidth="1592" frameHeight="1108" />
+<SubTexture name="NEbg2 NEbg20003" x="1592" y="1020" width="1592" height="1020" frameX="0" frameY="-88" frameWidth="1592" frameHeight="1108" />
+</TextureAtlas>

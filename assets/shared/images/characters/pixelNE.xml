@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pixelNE.png">
+<SubTexture name="pixelNE up0002" x="336" y="0" width="168" height="362" frameX="-256" frameY="-118" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE up0001" x="168" y="0" width="168" height="374" frameX="-256" frameY="-106" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE up0000" x="0" y="0" width="168" height="386" frameX="-256" frameY="-94" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE down0002" x="1312" y="0" width="248" height="314" frameX="-216" frameY="-166" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE down0001" x="0" y="1064" width="256" height="303" frameX="-216" frameY="-177" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE down0000" x="512" y="1064" width="264" height="292" frameX="-208" frameY="-188" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE left0002" x="1072" y="0" width="240" height="318" frameX="-216" frameY="-162" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE left0001" x="1312" y="314" width="240" height="302" frameX="-216" frameY="-178" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE left0000" x="256" y="1064" width="256" height="298" frameX="-192" frameY="-182" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE right0002" x="504" y="0" width="328" height="360" frameX="-216" frameY="-120" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE right0001" x="0" y="386" width="336" height="354" frameX="-224" frameY="-126" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE right0000" x="336" y="386" width="344" height="354" frameX="-224" frameY="-126" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0000" x="832" y="0" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0001" x="832" y="324" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0002" x="0" y="740" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0003" x="240" y="740" width="232" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0004" x="472" y="740" width="232" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0005" x="704" y="740" width="232" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0006" x="832" y="0" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0007" x="832" y="324" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0008" x="0" y="740" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0009" x="832" y="0" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0010" x="832" y="324" width="240" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0011" x="704" y="740" width="232" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0012" x="240" y="740" width="232" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+<SubTexture name="pixelNE idle0013" x="472" y="740" width="232" height="324" frameX="-216" frameY="-156" frameWidth="640" frameHeight="552" />
+</TextureAtlas>
